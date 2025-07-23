@@ -80,9 +80,8 @@ The **AI-4-AP-Police Digitization** project addresses a critical real-world chal
 
 
 # Clone the repository
-
-git clone https://github.com/Nikhil-Rao20/AI-4-AP-Police---Digitization.git
-cd AI-4-AP-Police---Digitization
+git clone https://github.com/Nikhil-Rao20/TripleD-AI4AP-Police_Doc2Data.git
+cd TripleD-AI4AP-Police_Doc2Data
 
 # Set up Python backend
 
@@ -124,21 +123,6 @@ The application will be available at:
 
 ## 🔧 Configuration
 
-### Environment Variables
-```
-
-
-# Required
-
-GEMINI_API_KEY=your_gemini_api_key
-
-# Optional
-
-MODEL_CACHE_DIR=./models
-UPLOAD_MAX_SIZE=16MB
-DEBUG=True
-
-```
 
 ### Model Configuration
 The system uses several AI models:
@@ -213,24 +197,10 @@ GET /export/excel        \# Export to Excel
 
 ```
 
-## 🚀 Deployment
-
-### Docker Deployment
-```
-
-
-# Build and run with Docker
-
-docker build -t ai4appolice .
-docker run -p 5000:5000 -p 5173:5173 ai4appolice
-
-```
-
 
 ## 🏅 Acknowledgments
 
 - **Andhra Pradesh Police Department, India** for providing the problem statement and dataset, and for conducting the hackathon
-
 
 
 ---
