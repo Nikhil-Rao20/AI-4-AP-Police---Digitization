@@ -3,15 +3,25 @@
 
 > **Winner** of the Andhra Pradesh Police Digitization Problem Statement
 
+
 <br>
 <div align="center">
-
+  
 **Sai Manikanta Eswar Machara<sup>1</sup>, Nikhileswara Rao Sulake<sup>1</sup><sup>,2</sup>, Gopi Jagadeesh Mahamkali<sup>1</sup>**
-
+  
 <sup>1</sup>Department of Computer Science and Engineering, RGUKT Nuzvid, India<br>
-<sup>2</sup>School of Medical Science and Technology, IIT Kharagpur, Kolkata, Inida
+
+<sup>2</sup>School of Medical Science and Technology, IIT Kharagpur, Kolkata, India
 
 </div>
+
+![Winners](pics/1.jpg)
+| <img src='pics/2.jpg' width='300' /> | <img src='pics/4.jpg' width='300' /> | <img src='pics/6.jpg' width='300' />|
+|---------------------------------|---------------------------------|---------------------------------|
+| <img src='pics/5.jpg' width='300' /> | <img src='pics/9.jpg' width='300' /> | <img src='pics/12.jpg' width='300' /> |              
+
+
+
 A comprehensive AI-powered solution for automating the digitization workflow of official police department correspondence. This system leverages cutting-edge computer vision and natural language processing to classify, extract, validate, and store information from five types of department letters.
 
 ## 🎯 Overview
